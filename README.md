@@ -1,2 +1,2 @@
 # TravelingSalesmanProblem
-Artifical Bee Colony algorithm to 
+Artifical Bee Colony algorithm to approximate the shortest path between points.
